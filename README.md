@@ -1,6 +1,6 @@
 # Mochila de viagem
 
-![preview](./assets/preview/print.png)
+![preview](./assets/public/print.png)
 
 > Mochila de viagem
 
